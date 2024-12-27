@@ -1,0 +1,114 @@
+On human brain limits:
+Since the human brain is finite in size, are there things that it cannot ever conceive or imagine? Is there a limit to imagination? Things outside our framework of thoughts
+Going crazy is easy to imagine, we all experience it when we dream during sleep and our brain thinks it is real
+
+On human biological choices:
+How to biologically explain that some people don't want children? 
+Coming to think of it (and many other topics that are against species survival), it comes down to the fact that humans have the ability of free will.
+But what is the limit of free will, if there is any? What is free will even? Is it as free as we think, or is it enclosed in what is acceptable in society?
+Free will seems to be deeply tied with the concept of society.
+Simply put, society is a sum of humans. There are as many layers of "societies" that there are subgroups inside the big society that is the complete group of all humans.
+Each layer has its rules, its needs, its constraints. As individual humans, we aim to maximize certain metrics, like being liked in our closest society layer.
+
+Humans are biological constructs that are one branch among many random paths of evolution. 
+It would be interesting to know why certain particles bound together in the earliest days, to form living things.
+A simple explanation would be that molecules began to interact with each other quite randomly, at a speed as slow as it would take to a bunch of atoms thrown together to form a complex molecule.
+Then naturally, some configurations were 'able' to multiply (by pure chance) then became dominant compared to randomly formed molecules.
+From that, life started and these early constructs began to randomly, naturally complexify.
+
+On the universe and survival:
+Living means merely making few particles move in a certain way in the immensity of the universe. It doesn't change much.
+But why change anything anyway in this immense sandbox?
+
+We are particles which all work together to spread, like the first group of molecules capable of mitosis was doing unconsciously to become dominant.
+Except that we do it consciously now, at a point that some humans even choose not to.
+If we survived until now thanks to the survival trait, that was passed from generation to generation, how can we simply discard the need now?
+One common answer is that it is hard to raise offspring. It means, humans can disregard spreading genes by considering their comfort.
+Is it selfish? Or is it unconsciously also estimating that the offspring won't thrive well (now) and then letting society evolves until a comfortable living could be achieved?
+Meaning we accept that the next generation of 'child bearing persons' (20-40) will have children instead of us, making the species survive on our behalf.
+In that case, are individuals mentally slaves of the society? Are we getting dictated our choice of reproduction to benefit humanity as a whole, unconsciously?
+Just like an ant colony, an ant could make choices for the great scheme even if it includes sacrifice. 
+
+But this all look like it is overthinking.
+It might just be that we got a taste of comfort and wellness, and we are just not willing to lose that or compromise. 
+Because human brain is receptive to certain hormones and we know by experience and extrapolate by mirroring, which pathways lead to maximizing/minimizing hormones.
+
+We have our survival instinct because all our ancestors had it. Branches that did not have it or lost it, just disappeared.
+Still funny to think that our existence, life and death mean nothing in the great scheme of everything, yet we strive to survive only due to that trait.
+Earliest forms of live did not care about living or not, they were just naturally able to be more numerous than the rest.
+But of course, as those 'mitosis able constructs' complexified, between the branches where organisms survived better and the indifferent ones, the survival group overcame in number.
+Survival means more mitosis, ecetera.
+It is passive predation by number. Like a group of humans overthrowing another group just by being more numerous. Active predation comes next, but they are not mutually exclusive.
+There is enough space on the Earth to make a lot of those different branches co-exist, and split, and split.
+
+On consciousness:
+Funny to think that mere moving molecules (in the human brain) are able to form a coherent thinking and be able of consciousness
+What is consciousness? Seems like it is tied to the ability of free will. Like choosing instead of reacting to bio stimulus, for instance
+Not even 'our own molecules' per se, but molecules that we constantly build from food and other inputs, heavily transform and discard only to serve their temporary purposes.
+
+It is funny that humans wonder about the universe origin
+Figuratively speaking, it is like a group of atoms teamed together on a blue planet and ended up trying to understand how, and from where they appeared in the very beginning.
+And humans are one 'chance' to understand, next generation organisms would be another chance... like they iteratively build constructs that would be intelligent enough to find the answer.
+Of course this is all a figurative view. In reality, there is no doubt that we are just the result of mere random, stochastic processes.
+
+On information:
+There is a limit on the information that we are able to store on Earth. Because there is a finite space, a finite set of material, and a finite lifespan to every information support.
+But the limiting factor is probably more, the lack of human lifespan (more precisely, the lifespan of one's brain).
+There will come a time when no additional knowledge will be reachable, because we will need too much basis prior knowledge that it exceeds the lifespan of a human brain.
+Since knowledge is more and more complex, the knowledge required to reach the next ceiling will be more and more high.
+
+Will this time come first, or the time when most humans disappear and the next generation won't understand our writings?
+We accumulate knowledge but it is encoded with a language, our encoding system. It comes in 2 forms, written and speech.
+The mapping function to go from written to speech form is not bijective, but we are able to clear any doubt with context.
+If this time comes, will it benefit the species in the end? We built a framework of thoughts around our own logic, but this is also a limitation for us.
+Maybe the model that we built to understand laws of nature, is wrong to start with.
+
+Is logic universal? Is it possible that another species think differently and have a different logic?
+Is logic exhaustive among humans? Or is it the result of our education system which is more or less universal?
+Is it possible to craft a logic problem that is not solvable by simple humans?
+
+On brain and stimulus:
+The human brain is a finite set of stimulus in, giving a finite set of result out, using a finite set of molecules (neuron electricity is from molecules moving [could that movement add a layer of complexity? creating a potential difference that can vary, each one encoding its own message])
+Since all of that is finite, would it be possible to create a mapping between a stimulus and a result?
+Like, making a group of people listen to some sound at precise wavelengths that we know universally trigger the same result out?
+Let's call the set of stimulus S, and the state of the brain at time t B(t).
+S contains a snapshot of local blood contents (which contains neurotransmitters among others), and all inputs from all senses (touch, taste, vision...) traveling in the nerves
+B(t) is much more complex to estimate. It is a snapshot of the brain at t. 
+Since the brain is in constant activity, it is never in the same state (understand, never the same configuration of receptors being actvivated/not activated at the same time) 
+The result out is some neuron activity at t+1
+Knowing that all humans brain are calibrated differently (we all react to the same stimulus differently), it is safe to assume that it is impossible to build a 1-1 mapping
+
+That sound project would not succeed because human brains seems to have safeguards. 
+Like watching a sad movie twice will not trigger the same reaction, listening to a sad song neither
+We are unable to be stuck in a loop. Makes sense anyway since that would be catastrophic for human survival as a species
+
+On boredom:
+Boredom is a catalyst of imagination and thiking process.
+But true, productive boredom is difficult to achieve
+When bored, we are quick to think about filling that empty space with entertainment.
+Or talk with people around us
+Or just perform something that we (un)consciously estimate will benefit us.
+We seek for those hormones states in our brain, immediate or delayed. Delayed seems to be more difficult to grasp, but we are capable of making choices and extrapolate on their consequences
+And foresee that a certain action will have a positive/negative net result 
+We choose pathways that will benefit us, that either release some positive hormones, or prevent release of negative hormones, even if this occurs in the future
+
+On thinking state:
+It seems like thinking of all of this and being receptive to those interrogations is possible when the brain is in a certain state
+But this state is not permanent nor easy to reach. Let me go out to be heavily exposed to society and its own rules, and I will read this manuscript with a weird eye
+Like my next interrogation would rather be: what should we do this week end? What gift should I give to X for Y event? Isn't it Z's birthday anyway? I should check around if I missed something
+This is understandable, as stated earlier, we choose actions that benefits us. Having a good reputation is beneficial, comes with benefits that will eventually maximize our endorphins and minimize our cortisol
+
+On influence:
+We are easily influenced. We look at what our peers have (bonus points if they are close to us or comparable) and we want the same
+Might be why mono cultural societies such as Korea or Japan have it hard
+It is easy to compare ourselves with anyone else in the society
+In France, since everyone is different, comes from different backgrounds, have different pasts, it is much easier to discard those futilities
+It is difficult being envious or jealous of someone who grew up in a priviliged household, or has a different skin color (no racism intended)
+
+On the infinitesimal scale:
+If we were able to continuously zoom on matter, what will we see?
+Atoms, then kernel proton neutron, then quarks... and then?
+Probably nothing visible. First, quarks are too small to interact with visible light or electrons
+But let assume we could visualize. 
+QFT says particles are excitation of fields. Those excitations interact with other fields to form complex systems,
+Using quantum theories do not help us visualize though
