@@ -34,7 +34,7 @@ It might just be that we got a taste of comfort and wellness, and we are just no
 Because human brain is receptive to certain hormones and we know by experience and extrapolate by mirroring, which pathways lead to maximizing/minimizing hormones.
 
 We have our survival instinct because all our ancestors had it. Branches that did not have it or lost it, just disappeared.
-Still funny to think that our existence, life and death mean nothing in the great scheme of everything, yet we strive to survive only due to that trait.
+Our existence, life and death mean nothing in the great scheme of everything, yet that trait makes us strive to survive.
 Earliest forms of live did not care about living or not, they were just naturally able to be more numerous than the rest.
 But of course, as those 'mitosis able constructs' complexified, between the branches where organisms survived better and the indifferent ones, the survival group overcame in number.
 Survival means more mitosis, ecetera.
@@ -42,14 +42,14 @@ It is passive predation by number. Like a group of humans overthrowing another g
 There is enough space on the Earth to make a lot of those different branches co-exist, and split, and split.
 
 On consciousness:
-Funny to think that mere moving molecules (in the human brain) are able to form a coherent thinking and be able of consciousness
+Mere moving molecules (in the human brain) are able to form a coherent thinking and be able of consciousness
 What is consciousness? Seems like it is tied to the ability of free will. Like choosing instead of reacting to bio stimulus, for instance
 Not even 'our own molecules' per se, but molecules that we constantly build from food and other inputs, heavily transform and discard only to serve their temporary purposes.
 
 It is funny that humans wonder about the universe origin
 Figuratively speaking, it is like a group of atoms teamed together on a blue planet and ended up trying to understand how, and from where they appeared in the very beginning.
 And humans are one 'chance' to understand, next generation organisms would be another chance... like they iteratively build constructs that would be intelligent enough to find the answer.
-Of course this is all a figurative view. In reality, there is no doubt that we are just the result of mere random, stochastic processes.
+Of course this is all a figurative view. In reality, we are just the result of mere random, stochastic processes.
 
 On information:
 There is a limit on the information that we are able to store on Earth. Because there is a finite space, a finite set of material, and a finite lifespan to every information support.
@@ -101,14 +101,57 @@ This is understandable, as stated earlier, we choose actions that benefits us. H
 On influence:
 We are easily influenced. We look at what our peers have (bonus points if they are close to us or comparable) and we want the same
 Might be why mono cultural societies such as Korea or Japan have it hard
-It is easy to compare ourselves with anyone else in the society
-In France, since everyone is different, comes from different backgrounds, have different pasts, it is much easier to discard those futilities
+It is easy to compare ourselves with anyone else in the society when relatable
+In France, since everyone is quite different, comes from different backgrounds, have different pasts, it is much easier to discard those futilities
 It is difficult being envious or jealous of someone who grew up in a priviliged household, or has a different skin color (no racism intended)
 
 On the infinitesimal scale:
 If we were able to continuously zoom on matter, what will we see?
 Atoms, then kernel proton neutron, then quarks... and then?
-Probably nothing visible. First, quarks are too small to interact with visible light or electrons
+Probably nothing visible, quarks are too small to interact with visible light or electrons
 But let assume we could visualize. 
 QFT says particles are excitation of fields. Those excitations interact with other fields to form complex systems,
-Using quantum theories do not help us visualize though
+Using quantum theories do not help us visualize though, and calling those things "fields" might only be a way, or a math construct, to help our brains conceptualize
+It is fascinating to know that all those fields (how many?) interacting with each other, form something extremely coherent and well defined in the macroscopic world
+Like throwing a tennis ball will always have the same behavior, that we can precisely describe with classical mechanics
+It shows that we don't need to understand the complexities of a system with n fields, to understand how a ball will behave
+More generally: going up in the layers of abstractions (QFT fields->particles->group of particles->...) to the good order of reference, is necessary, or else we will be stuck with unresolvable problems (n bodies systems)
+
+About layers of thinking:
+Everyone thinks differently. There are similarities but it is safe to say that all human brains on Earth have a different "configuration"
+We visualize and conceptualize things with our own framework, which was built incrementally through knowledge and experience, and still adjusts day by day
+Because we live in our own world and exposed to our own layer of society, our priorities, endorphin levels, cortisol levels, etc. depend on actions and states that are unique to us
+Is it possible that one reaches a layer of comprehension that makes them unable to see the world the same again?
+Unable to enjoy simple things because they see all the causes and implications of everything that happens?
+
+On similarities and differences between people:
+We say we are the sum of the people who we are close to
+In term of personality, behavior, interests...
+This seems to be fueled by two not exclusive mechanisms
+We tend to form link with people with who we share similarities in the first place
+We are influenced to fit in the immediate closest layer of society, meaning that we are not likely to deviate from the mean behavior
+That layer containing our similar peers, it self reinforces
+Can two totally different persons come close and influence each other positively? By that, let's say take the best part of each
+Assuming we can define what's best
+There are several ways and reasons such people could be form a bond. Example, a couple
+A couple could exist because of love, because of self fulfilling each one's interests... and many other reasons, including a combination of all those
+There is no answer to this
+
+About making the correct life decisions:
+Life choices are made by considering the weighted sum of pros and cons
+There is not always an obvious choice
+While pros and cons could be absolute and objective to a degree, weights (importance of an argument) may differ totally
+Always try to undersand and not be dismissive about what looks like a bad/non optimal choice
+Might as well be optimal for that person
+
+About education:
+Knowing a (popular) language open doors to knowledge 
+Knowledge may be translated in many languages
+But the lastest, state of the art advancements and niche may only be in a few
+Not knowing how to read at all in any language (no access to school at young age for instance) may keep you stuck in ignorance
+
+About analogies:
+There seems to be analogies that can be made for any arguments or explanation
+More often than not, one argument and its opposite may have analogies that are both valid in their respective contexts
+Do not blindly trust analogies, consider the situation as it is, not through an example
+
