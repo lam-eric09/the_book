@@ -112,7 +112,7 @@ Probably nothing visible, quarks are too small to interact with visible light or
 But let assume we could visualize. 
 QFT says particles are excitation of fields. Those excitations interact with other fields to form complex systems,
 Using quantum theories do not help us visualize though, and calling those things "fields" might only be a way, or a math construct, to help our brains conceptualize
-It is fascinating to know that all those fields (how many?) interacting with each other, form something extremely coherent and well defined in the macroscopic world
+All those fields (how many?) interacting with each other, form something extremely coherent and well defined in the macroscopic world
 Like throwing a tennis ball will always have the same behavior, that we can precisely describe with classical mechanics
 It shows that we don't need to understand the complexities of a system with n fields, to understand how a ball will behave
 More generally: going up in the layers of abstractions (QFT fields->particles->group of particles->...) to the good order of reference, is necessary, or else we will be stuck with unresolvable problems (n bodies systems)
